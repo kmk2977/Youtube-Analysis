@@ -3,7 +3,9 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/77/2018_Linus_Tech_Tips_logo.svg)
 
-YouTube Data API - [LINK](https://developers.google.com/youtube/v3/getting-started)
+Link to the original project repo by [Thu-Vu](https://github.com/thu-vu92/youtube-api-analysis).
+
+YouTube Data API - [LINK](https://developers.google.com/youtube/v3/getting-started).
 
 ## Aims & Objectives
 1.Getting to know Youtube API and how to obtain video data.<br>
